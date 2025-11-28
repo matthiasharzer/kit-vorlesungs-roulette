@@ -4,9 +4,6 @@
 </script>
 
 <div class="footer">
-    <div class="version">
-        <span>v{APP_VERSION}</span>
-    </div>
     <div class="made-by">
         <span>
             Made by <a href="https://matthiasharzer.de" target="_blank"
@@ -74,14 +71,6 @@
     .footer a {
         color: white;
         margin: 0 3px;
-    }
-
-    .footer .version{
-        position: absolute;
-        bottom: 0;
-        left: 10px;
-        opacity: 0.7;
-        font-size: 0.7em;
     }
 
     .footer .github {
